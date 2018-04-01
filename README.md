@@ -1,8 +1,8 @@
 # Snapshot
 
-### Epigenetic modification of chromatin plays a pivotal role in regulating gene expression during cell differentiation. The scale and complexity of epigenetic data pose a significant challenge for biologists to identify the regulatory events controlling each stage of cell differentiation. Here, we present a model-free method, called Snapshot, that uses epigenetic data to generate a hierarchical visualization for the DNA regions segregating with respect to chromatin state along any given cell differentiation hierarchy of interest. Different cell type hierarchies may be used to highlight the epigenetic history specific to particular lineages of cell differentiation. We demonstrate the utility of Snapshot using data from the VISION project, an international project for ValIdated Systematic IntegratiON of epigenomic data in mouse and human hematopoiesis.
-
 ### Hematopoietic cell differentiation in VISION (ValIdated Systematic IntegratiON of hematopoietic epigenomes) project
+
+### Index-set information:
 
 
 ###### The cell differentiation tree for index-set: 178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X
