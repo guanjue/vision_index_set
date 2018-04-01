@@ -19,8 +19,8 @@ for info in data1:
 	data2.write('###### The cell differentiation tree for index-set: ' + info[0] + '\n')
 	index_set_id = info[0].split('.')[0]
 	index_set_pattern = info[0].split('.')[1]
-	data2.write('<img src="https://github.com/guanjue/snapshot/blob/master/test_data/output_result/signal_tree/'+str(index_set_id)+'.signal_list.txt'+str(index_set_pattern)+'.tree.png" width="400"/> <img src="https://github.com/guanjue/snapshot/blob/master/test_data/output_result/fun_tree/'+str(index_set_id)+'.function_list.txt'+str(index_set_pattern)+'.tree.png" width="400"/> ' + '\n')
-	data2.write('<img src="https://github.com/guanjue/snapshot/blob/master/test_data/output_result/signal_violin/'+info[0]+'.violin.png" width="400"/> <img src="https://github.com/guanjue/snapshot/blob/master/test_data/output_result/fun_bar/'+info[0]+'.bar.png" width="400"/> ' + '\n')
+	data2.write('<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_tree/'+str(index_set_id)+'.signal_list.txt'+str(index_set_pattern)+'.tree.png" width="400"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_tree/'+str(index_set_id)+'.function_list.txt'+str(index_set_pattern)+'.tree.png" width="400"/> ' + '\n')
+	data2.write('<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/'+info[0]+'.violin.png" width="400"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/'+info[0]+'.bar.png" width="400"/> ' + '\n')
 	data2.write('\n')
 
 data2.close()
