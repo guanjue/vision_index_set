@@ -5,7 +5,7 @@
 ### Index-set information:
 
 
-<href="https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.txt" rel="all index-set info" 
+all index-set info:![alt text](https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.txt"
 
 
 ###### The cell differentiation tree for index-set: 178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X
