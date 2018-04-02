@@ -8,12 +8,6 @@
 #### all index-set info: (https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.txt)
 
 
-###### The cell differentiation tree for index-set: 178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X
-<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_tree/178.signal_list.txtX_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.tree.png" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_tree/178.ideas_list.txtX_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.tree.png" width="300"/> 
-<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.violin.png" height="100" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.bar.png" height="100" width="300"/> 
-
-bed file for index-set-178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X: (https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.index_set.bed)
-
 ###### The cell differentiation tree for index-set: 177.1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
 <img src="https://github.com/guanjue/vision_index_set/blob/master/signal_tree/177.signal_list.txt1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1.tree.png" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_tree/177.ideas_list.txt1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1.tree.png" width="300"/> 
 <img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/177.1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1.violin.png" height="100" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/177.1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1.bar.png" height="100" width="300"/> 
@@ -1081,4 +1075,11 @@ bed file for index-set-1.0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_0_0_1: (https://github.co
 <img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/0.0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_1.violin.png" height="100" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/0.0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_1.bar.png" height="100" width="300"/> 
 
 bed file for index-set-0.0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_1: (https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/0.0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_1.index_set.bed)
+
+
+###### The cell differentiation tree for index-set: 178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X
+<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_tree/178.signal_list.txtX_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.tree.png" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_tree/178.ideas_list.txtX_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.tree.png" width="300"/> 
+<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.violin.png" height="100" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.bar.png" height="100" width="300"/> 
+
+bed file for index-set-178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X: (https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/178.X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X.index_set.bed)
 
