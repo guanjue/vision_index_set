@@ -5,7 +5,7 @@ for records in data0:
 	data1.append(records.split())
 data0.close()
 
-data2 = open('README.md', 'w')
+data2 = open('index_set_results.md', 'w')
 
 data2.write('# Snapshot\n')
 data2.write('\n')
