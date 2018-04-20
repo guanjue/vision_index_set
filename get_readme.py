@@ -27,6 +27,7 @@ for info in data1:
 	index_set_pattern = info[0].split('.')[1]
 	data2.write('<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_tree/'+str(index_set_id)+'.signal_list.txt'+str(index_set_pattern)+'.tree.png" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_tree/'+str(index_set_id)+'.ideas_list.txt'+str(index_set_pattern)+'.tree.png" width="300"/> ' + '\n')
 	data2.write('<img src="https://github.com/guanjue/vision_index_set/blob/master/signal_violin/'+info[0]+'.violin.png" height="100" width="300"/> <img src="https://github.com/guanjue/vision_index_set/blob/master/fun_bar/'+info[0]+'.bar.png" height="100" width="300"/> ' + '\n')
+	data2.write('<img src="https://github.com/guanjue/vision_index_set/blob/master/index_set_go_dist/'+info[0]+'.index_set.bed.dist.pdf" height="100" width="600"/> ' + '\n')
 	data2.write('\n')
 	data2.write('bed file for index-set-' + info[0] + ': ')
 	data2.write('(https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/'+info[0]+'.index_set.bed)' + '\n')
