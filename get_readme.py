@@ -16,7 +16,7 @@ data2.write('\n')
 data2.write('\n')
 
 data2.write('#### all index-set info: ')
-data2.write('(https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.txt)' + '\n')
+data2.write('(https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.no0.bed)' + '\n')
 data2.write('\n')
 data2.write('\n')
 
