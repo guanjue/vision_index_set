@@ -2,7 +2,7 @@
 
 ### Hematopoietic cell differentiation in VISION (ValIdated Systematic IntegratiON of hematopoietic epigenomes) project
 
-### Index-set information:
+### Index-set information (mm10):
 
 
 #### all index-set info: (https://github.com/guanjue/vision_index_set/blob/master/index_set_bed/atac_20cell.fun.no0.bed)

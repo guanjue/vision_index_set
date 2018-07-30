@@ -1,0 +1,33 @@
+
+input_folder='/Users/gzx103/Downloads/data2run'
+
+file_list = list.files(input_folder, pattern='.bed' )
+
+d1=scan('H3K27ac_CD34_R2.ct.bed')
+sample_id = sample(length(d1), 20000)
+
+for (file in file_list[-c(1,2)]){
+	print(file)
+	if (file!="H3K27ac_CD34_R2.ct.bed"){
+		d2_tmp=scan(file)
+		pdf(paste(file,'check.pdf', sep=''))
+		plot(d1[sample_id], d2_tmp[sample_id], xlim=c(0.1, max(cbind(d1[sample_id], d2_tmp[sample_id]))), ylim=c(0.1, max(cbind(d1[sample_id], d2_tmp[sample_id]))) )
+		abline(0,1,col='red')
+		dev.off()
+	}
+}
+
+
+
+
+
+d1=scan('H3K27ac_CD34_R2.ct.bed')
+
+d2=scan('H3K36me3_H1_1.ct.bed')
+
+
+plot(d1[sample_id], d2[sample_id], log='xy', xlim=c(0.1, max(cbind(d1[sample_id], d2[sample_id]))), ylim=c(0.1, max(cbind(d1[sample_id], d2[sample_id]))) )
+
+abline(0,1,col='red')
+
+
